@@ -1,0 +1,49 @@
+
+#h{
+    font-family:'Times New Roman', Times, serif;
+    text-decoration:dotted;
+    text-shadow: 20px;
+}
+.choiceBtn{
+
+
+    
+    width: 150px;
+    height: 40px;
+    border: 5px rgb(21, 79, 44) solid;
+    border-radius: 12px;
+    background-color: rgba(48, 238, 223, 0.868);
+    color: rgb(23, 36, 49);
+    cursor: pointer;
+    font-family: consolas,monospace; 
+    font-size:30px
+    
+    
+
+}
+
+
+#gameDiv{
+
+    font-family: 'Brush Script MT', cursive;
+    border: 8px rgb(81, 61, 215) solid;
+    border-left-style:double;
+    border-right-style:double;
+    border-radius: 20px;
+    height: 400px;
+    background-color: orange;
+    text-align:center;
+
+ 
+
+
+}
+
+#playerText{
+           color: rgb(26, 27, 27);
+          text-decoration: double;
+}
+
+/* #computerText
+
+#resultText */
