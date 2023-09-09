@@ -1,0 +1,23 @@
+#innerdiv{
+    display: block;
+    color: aliceblue;
+    background-color:rgb(0, 79, 217);
+    width: 100px;
+    height: 100px;
+    border:10px solid rgb(224, 0, 0);
+  
+
+}
+
+#outerdiv{
+     
+    color: aliceblue;
+    background-color:rgb(188, 217, 0);
+    width: 200px;
+    height: 200px;
+    border:10px solid rgb(0, 224, 112);
+    
+    
+    
+
+}
